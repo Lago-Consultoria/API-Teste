@@ -1,4 +1,4 @@
-# Lago Consultoria - Teste para desenvolvedor
+# Lago Consultoria - Teste de desenvolvimento 
 
 #### Efetue o clone deste projeto e ao finalizá-lo nos envie o seu projeto com as implementações e correções por e-mail
 
