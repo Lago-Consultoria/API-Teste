@@ -12,7 +12,8 @@
 - O método Add() da controller de cliente não foi implementado e cabe a você implementá-lo;
 - Podem existir alguns bugs e você deve corrigí-los;
 - Fique à vontade para melhorar os outros métodos, caso queira.
-- Criar no banco de dados uma view que retorne os clientes e suas respectivas idades.
+#### Tarefa bonus:
+- Criar no banco de dados (em T-SQL) uma view que retorne os clientes e suas respectivas idades.
 
 ## Requisitos para conseguir efetuar este teste:
 - Visual Studio 2019 ou superior instalado;
