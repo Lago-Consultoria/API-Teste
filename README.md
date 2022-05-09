@@ -16,7 +16,7 @@
 - Criar no banco de dados (em T-SQL) uma view que retorne os clientes e suas respectivas idades.
 
 ## Requisitos para conseguir efetuar este teste:
-- Visual Studio 2019 ou superior instalado;
+- Visual Studio 2019 ou superior instalado
 > O Visual Studio possui uma versão gratuita para desenvolvedores que pode ser baixada neste link:
 > https://visualstudio.microsoft.com/pt-br/vs/community/
 > 
